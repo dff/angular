@@ -97,9 +97,9 @@
   version "0.19.32"
   resolved "https://registry.yarnpkg.com/@types/systemjs/-/systemjs-0.19.32.tgz#e9204c4cdbc8e275d645c00e6150e68fc5615a24"
 
-"@webcomponents/custom-elements@^1.0.4":
-  version "1.0.8"
-  resolved "https://registry.yarnpkg.com/@webcomponents/custom-elements/-/custom-elements-1.0.8.tgz#b7b8ef7248f7681d1ad4286a0ada5fe3c2bc7228"
+"@webcomponents/custom-elements@^1.1.2":
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@webcomponents/custom-elements/-/custom-elements-1.1.2.tgz#041e4c20df35245f4d160b50d044b8cff192962c"
 
 Base64@~0.2.0:
   version "0.2.1"
